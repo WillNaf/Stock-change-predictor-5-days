@@ -1,6 +1,6 @@
 ## This projects is to display my financial data science skills to Advent Internationa
-##02-16-2023 Apple stock price = 153.71
-##COde predicts by 02-19-2023 close its will be up 3% where apple stock = 158.3213 
+##02-14-2023 Apple stock closing price = 153.199997
+##COde predicts by 02-19-2023 close its will be up 3% where apple stock = 157.79599691
 
 !pip install yfinance
 
